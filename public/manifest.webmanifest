@@ -1,0 +1,11 @@
+{
+  "name": "OTS Command Center",
+  "short_name": "OTS Tracker",
+  "description": "Commissioning package timeline and readiness tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#092d50",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
